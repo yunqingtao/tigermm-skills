@@ -1,0 +1,72 @@
+[
+  {
+    "name": "weather",
+    "file": "weather.py",
+    "desc": "Weather lookup skill",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/weather.py"
+  },
+  {
+    "name": "calculator",
+    "file": "calculator.py",
+    "desc": "Expression calculator",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/calculator.py"
+  },
+  {
+    "name": "translator",
+    "file": "translator.py",
+    "desc": "Simple translator using free API",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/translator.py"
+  },
+  {
+    "name": "password_gen",
+    "file": "password_gen.py",
+    "desc": "Strong password generator",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/password_gen.py"
+  },
+  {
+    "name": "json_formatter",
+    "file": "json_formatter.py",
+    "desc": "JSON pretty printer and validator",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/json_formatter.py"
+  },
+  {
+    "name": "timer",
+    "file": "timer.py",
+    "desc": "Countdown timer",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/timer.py"
+  },
+  {
+    "name": "clipboard",
+    "file": "clipboard.py",
+    "desc": "Clipboard read/write",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/clipboard.py"
+  },
+  {
+    "name": "qr_code",
+    "file": "qr_code.py",
+    "desc": "QR code generator",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/qr_code.py"
+  },
+  {
+    "name": "markdown_preview",
+    "file": "markdown_preview.py",
+    "desc": "Markdown to HTML converter",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/markdown_preview.py"
+  },
+  {
+    "name": "http_tester",
+    "file": "http_tester.py",
+    "desc": "HTTP API tester",
+    "category": "utility",
+    "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/http_tester.py"
+  }
+]
