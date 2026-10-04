@@ -16,7 +16,7 @@
   {
     "name": "translator",
     "file": "translator.py",
-    "desc": "Simple translator using free API",
+    "desc": "Placeholder - not implemented yet (returns a hint only)",
     "category": "utility",
     "install": "/market install https://raw.githubusercontent.com/yunqingtao/tigermm-skills/main/translator.py"
   },
